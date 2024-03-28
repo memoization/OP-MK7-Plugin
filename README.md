@@ -1,4 +1,5 @@
 ## OP🔥 Mario Kart 7 Online Plugin
+![MARIO KART 7_28 03 24_03 10 18 478](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/6698fd69-7891-4799-96d6-ed467649b2ff)
 
 # About
 Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and exclusive codes for online and singleplayer usage.
@@ -14,9 +15,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 3. Open Rosalina Menu and enable **Plugin Loader**.
 
-*Some singleplayer / online codes only support NTSC regions. I don't plan to port these anytime soon as online will shutdown in a few days. A digital download in North America region with v1.2 is recommended.*
+*Some singleplayer / online codes only support NTSC regions. I don't plan to port online codes because of the online shutdown. A digital download in North America region with v1.2 is recommended.*
 
-# Cheat List
+# Cheat Code List
 📁**Item Codes**
 <details>
 
