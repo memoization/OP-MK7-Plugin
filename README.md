@@ -39,7 +39,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Disable Spawned Items
 - Disable Item Collision
 - Item Draw
-- Item Spawnkill
+- [Item Spawnkill](https://youtu.be/4HxeDy7Im4w)
 - Never Lose Items
 - Always Have Certain Item
 - Cycle Completely Random Item
@@ -57,7 +57,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 📁**Speed & Movement**
 - Stalking Hack
 - Follow The Leader
-- Follow Race Position
+- [Follow Race Position](https://youtu.be/rp8nKbXajGs)
 - Idle Stalking
 - Draft Speed
 - Battle Points Speedometer
@@ -77,7 +77,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 📁**Kart Codes**
 - Invincibility
 - Aimbot
-- Coin Drop
+- [Coin Drop](https://youtu.be/EdS3d6vGgJ4)
 - Always Star Power
 - Always Black Kart
 - Always Shocked
@@ -85,7 +85,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - AI Driver
 - Auto Hopping
 - Bouncy House
-- Low Gravity
+- [Low Gravity](https://youtu.be/IKQJGDzdRek)
 - Trick Anywhere
 - Instant Respawn
 - Instant MiniTurbo
@@ -96,7 +96,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Green Shells Sprinkler
 - Red Shells Sprinkler
 - Random Sprinkler
-- Coin Sprinkler
+- [Coin Sprinkler](https://youtu.be/EdS3d6vGgJ4)
 
 📁**Course Codes**
 - Instant Win
@@ -108,7 +108,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 📁**Online Codes**
 - Always Enter Online Race
 - Always Enter Online Battle
-- Community Point Farming
+- [Community Point Farming](https://youtu.be/6lQX0ZSzjiM)
 - Anti-VR Crash
 - Anti-Packet Crash
 - Prevent Results Screen Softlock
@@ -118,10 +118,10 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - High Matchmaking Level
 - Max Matchmaking Level
 - Random PID
-- Freeze Course Selection Timer
+- [Freeze Course Selection Timer](https://youtu.be/z78y9j-_49M)
 - Extended Course Selection Timer
-- Instant Online Disconnect
-- Name Changer
+- [Instant Online Disconnect](https://youtu.be/v1s1fDre-8g)
+- [Name Changer](https://youtu.be/XHvhYwrOAiQ)
 - Skip Community Start Timer
 - Skip Online Spectate
 - Skip Please Wait Prompt
@@ -141,8 +141,8 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - VR Extender
 - Unlock Everything
 - Random VR
-- Random Country
-- Random Globe Coordinates
+- [Random Country](https://youtu.be/JIMalEDeYHQ)
+- [Random Globe Coordinates](https://youtu.be/BDR8RdMIeoU)
 - Set Custom VR
 - Set Wins Total
 - Set Losses Total
