@@ -2,7 +2,7 @@
 ![MARIO KART 7_28 03 24_03 10 18 478](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/6698fd69-7891-4799-96d6-ed467649b2ff)
 
 # About
-Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and exclusive codes for online and singleplayer usage.
+Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution) with exclusive codes for online and singleplayer usage.
 
 # Installation
 
@@ -24,22 +24,26 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 <summary>📁Item Droppers</summary>
 
 - Drop Shells
+- Drop Green Shells
+- Drop Red Shells
+- Drop Blue Shell
+- Drop Fireball
 - Drop Mushrooms
-- Lucky-7 Drop Mushrooms
-- Lucky-7 Drop Star
-- Lucky-7 Drop Blooper
+- Drop Star
+- Drop Blooper
 
 </details>
 
-- Item Wheel
+- [Item Wheel](https://youtu.be/WoSv0uVp994)
 - Fast Auto Fire
 - Moderate Auto Fire
 - Slow Auto Fire
 - Disable Spawned Shells
 - Disable Spawned Items
 - Disable Item Collision
-- Item Draw
+- [Item Draw](https://youtu.be/c59r7s4LbZM)
 - [Item Spawnkill](https://youtu.be/4HxeDy7Im4w)
+- [Raining Items](https://youtu.be/AvF0rq89AXc)
 - Never Lose Items
 - Always Have Certain Item
 - Cycle Completely Random Item
@@ -58,7 +62,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Stalking Hack
 - Follow The Leader
 - [Follow Race Position](https://youtu.be/rp8nKbXajGs)
-- Idle Stalking
+- Random Stalking
 - Draft Speed
 - Battle Points Speedometer
 - 200cc
@@ -148,8 +152,8 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Set Losses Total
 - Set Coins Total
 - Set StreetPass Tags
-- Set Country Label
-- Set Globe Coordinates
+- [Set Country Label](https://youtu.be/0oTamdOUpnw)
+- [Set Globe Coordinates](https://youtu.be/ClVVA0lVUlY)
 
 📁**Miscellaneous**
 - Drive During Countdown
