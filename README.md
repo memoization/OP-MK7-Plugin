@@ -2,7 +2,7 @@
 ![MARIO KART 7_28 03 24_03 10 18 478](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/6698fd69-7891-4799-96d6-ed467649b2ff)
 
 # About
-Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution) with exclusive codes for online and singleplayer usage.
+Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
 
 # Installation
 
@@ -15,8 +15,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 3. Open Rosalina Menu and enable **Plugin Loader**.
 
-*Some singleplayer / online codes only support NTSC regions. I don't plan to port online codes because of the online shutdown. A digital download in North America region with v1.2 is recommended.*
-
 # Cheat Code List
 📁**Item Codes**
 <details>
@@ -27,10 +25,25 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Drop Green Shells
 - Drop Red Shells
 - Drop Blue Shell
-- Drop Fireball
+- Drop Fireballs
 - Drop Mushrooms
-- Drop Star
-- Drop Blooper
+- Drop Stars
+- Drop Bloopers
+- [Drop Coins](https://youtu.be/EdS3d6vGgJ4)
+
+</details>
+
+<details>
+
+<summary>📁Item Sprinklers</summary>
+
+- Bananas Sprinkler
+- Shell Sprinkler
+- Bomb-ombs Sprinkler
+- Star Sprinkler
+- Fireball Sprinkler
+- Random Sprinkler
+- [Coin Sprinkler](https://youtu.be/EdS3d6vGgJ4)
 
 </details>
 
@@ -42,7 +55,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Disable Spawned Items
 - Disable Item Collision
 - [Item Draw](https://youtu.be/c59r7s4LbZM)
-- [Item Spawnkill](https://youtu.be/4HxeDy7Im4w)
+- [Item Spawn Kill](https://youtu.be/rlOHrD4U4kw)
 - [Raining Items](https://youtu.be/AvF0rq89AXc)
 - Never Lose Items
 - Always Have Certain Item
@@ -71,7 +84,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Instant Backwards Acceleration
 - Instant Stop
 - Fast Reverse Speeds
-- Inside Drifing Kart
+- Inside Drifting Kart
 - Touch Screen Teleporter
 - Moonjump
 - Drive Anywhere
@@ -81,7 +94,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 📁**Kart Codes**
 - Invincibility
 - Aimbot
-- [Coin Drop](https://youtu.be/EdS3d6vGgJ4)
 - Always Star Power
 - Always Black Kart
 - Always Shocked
@@ -95,18 +107,14 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Instant MiniTurbo
 - Huge Bunnyhop
 - Size Changer
-- Bomb-ombs Sprinkler
-- Bananas Sprinkler
-- Green Shells Sprinkler
-- Red Shells Sprinkler
-- Random Sprinkler
-- [Coin Sprinkler](https://youtu.be/EdS3d6vGgJ4)
 
 📁**Course Codes**
 - Instant Win
 - Drive Out of Bounds
 - Disable Wall Collision
+- No Lakitu
 - Max Timer
+- Zero Timer
 - Water Everywhere
 
 📁**Online Codes**
@@ -114,7 +122,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Always Enter Online Battle
 - [Community Point Farming](https://youtu.be/6lQX0ZSzjiM)
 - Anti-VR Crash
-- Anti-Packet Crash
 - Prevent Results Screen Softlock
 - Truely Random Matchmaking
 - Low Matchmaking Level
@@ -135,6 +142,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Crash Online Match
 - Matchmaking VR Crash
 - Always VR Crash
+- High Data Rate
 - Mii Dumper
 
 📁**Custom Game Modes**
