@@ -14,6 +14,7 @@ EUR - SD:/luma/plugins/0004000000030700<br/>
 JPN - SD:/luma/plugins/0004000000030600<br/>
 
 3. Open Rosalina Menu and enable **Plugin Loader**.
+4. Select "Save settings" then launch the game.
 
 # Cheat Code List
 📁**Item Codes**
@@ -37,13 +38,34 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 <summary>📁Item Sprinklers</summary>
 
-- Bananas Sprinkler
+- Banana Sprinkler
 - Shell Sprinkler
-- Bomb-ombs Sprinkler
+- Bomb-omb Sprinkler
 - Star Sprinkler
 - Fireball Sprinkler
+- Blooper Sprinkler
 - Random Sprinkler
 - [Coin Sprinkler](https://youtu.be/EdS3d6vGgJ4)
+
+</details>
+
+<details>
+
+<summary>📁Item Limits</summary>
+
+- Increase Banana Limit
+- Increase Bomb-omb Limit
+- Increase Star Limit
+- Increase Mushroom Limit
+- Increase Fireball Limit
+- Increase Blooper Limit
+- Decrease Banana Limit
+- Decrease Green Shell Limit
+- Decrease Bomb-omb Limit
+- Decrease Star Limit
+- Decrease Mushroom Limit
+- Decrease Fireball Limit
+- Decrease Blooper Limit
 
 </details>
 
