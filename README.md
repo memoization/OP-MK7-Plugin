@@ -70,13 +70,13 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 </details>
 
 - [Item Wheel](https://youtu.be/WoSv0uVp994)
+- [Item Draw](https://youtu.be/c59r7s4LbZM)
 - Fast Auto Fire
 - Moderate Auto Fire
 - Slow Auto Fire
 - Disable Spawned Shells
 - Disable Spawned Items
 - Disable Item Collision
-- [Item Draw](https://youtu.be/c59r7s4LbZM)
 - [Item Spawn Kill](https://youtu.be/rlOHrD4U4kw)
 - [Raining Items](https://youtu.be/AvF0rq89AXc)
 - Never Lose Items
@@ -99,6 +99,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Follow Race Position](https://youtu.be/rp8nKbXajGs)
 - Random Stalking
 - Draft Speed
+- Moonjump
 - Battle Points Speedometer
 - 200cc
 - 500cc
@@ -108,18 +109,19 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Fast Reverse Speeds
 - Inside Drifting Kart
 - Touch Screen Teleporter
-- Moonjump
 - Drive Anywhere
 - Saved Position Teleporter
 - Enter The Void
 
 📁**Kart Codes**
-- Invincibility
+- [Invincibility Frames](https://youtu.be/CzPBD85bstI)
 - Aimbot
+- Always Invincible
 - Always Star Power
 - Always Black Kart
 - Always Shocked
 - Always Crushed
+- Always Propeller
 - AI Driver
 - Auto Hopping
 - Bouncy House
@@ -132,12 +134,15 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 📁**Course Codes**
 - Instant Win
-- Drive Out of Bounds
+- Disable Respawn Boundaries
 - Disable Wall Collision
+- Drive During Countdown
 - No Lakitu
 - Max Timer
 - Zero Timer
+- Wuhu Island Loop Full Course Laps
 - Water Everywhere
+- Disable Water Effect
 
 📁**Online Codes**
 - Always Enter Online Race
@@ -186,7 +191,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Set Globe Coordinates](https://youtu.be/ClVVA0lVUlY)
 
 📁**Miscellaneous**
-- Drive During Countdown
 - Speedometer
 - Disable First Person View
 - Fast Game/Anti-Matrix
