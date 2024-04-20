@@ -38,14 +38,15 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 <summary>📁Item Sprinklers</summary>
 
+- [Ordered Sprinkler](https://youtu.be/4SpqotwC1Zg)
+- [Random Sprinkler](https://youtu.be/w9lTdYf0z2o)
+- [Coin Sprinkler](https://youtu.be/EdS3d6vGgJ4)
 - Banana Sprinkler
 - Shell Sprinkler
 - Bomb-omb Sprinkler
 - Star Sprinkler
 - Fireball Sprinkler
 - Blooper Sprinkler
-- Random Sprinkler
-- [Coin Sprinkler](https://youtu.be/EdS3d6vGgJ4)
 
 </details>
 
@@ -69,6 +70,35 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 </details>
 
+<details>
+
+<summary>📁Item Boxes</summary>
+
+- [Instant Item Boxes](https://youtu.be/HVNVs-BoAnA)
+- [No Item Roll](https://youtu.be/zH_pcJ-YsDI)
+- Truly Random Items
+- Force Banana
+- Force Green Shell
+- Force Red Shell
+- Force Mushroom
+- Force Star
+- Force Bomb-omb
+- Force Blooper
+- Force Blue Shell
+- Force Lightning
+- Force Bullet Bill
+- Force Golden Mushroom
+- Force Fire Flower
+- Force Super Leaf
+- Force Lucky 7
+- Force Triple Bananas
+- Force Triple Mushrooms
+- Force Triple Green Shells
+- Force Triple Red Shells
+- Force No Item
+
+</details>
+
 - [Item Wheel](https://youtu.be/WoSv0uVp994)
 - [Item Draw](https://youtu.be/c59r7s4LbZM)
 - Fast Auto Fire
@@ -82,7 +112,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Never Lose Items
 - Always Have Certain Item
 - Cycle Completely Random Item
-- Truly Random Items
+- Star Spawner
 - Fast Blue Shell
 - Lightning Strikes Yourself
 - Stopped Blue Shell
@@ -150,7 +180,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Community Point Farming](https://youtu.be/6lQX0ZSzjiM)
 - Anti-VR Crash
 - Prevent Results Screen Softlock
-- Truely Random Matchmaking
+- Truly Random Matchmaking
 - Low Matchmaking Level
 - Medium Matchmaking Level
 - High Matchmaking Level
@@ -158,7 +188,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Random PID
 - [Freeze Course Selection Timer](https://youtu.be/z78y9j-_49M)
 - Extended Course Selection Timer
-- [Instant Online Disconnect](https://youtu.be/v1s1fDre-8g)
+- [Force Online Disconnect](https://youtu.be/v1s1fDre-8g)
 - [Name Changer](https://youtu.be/XHvhYwrOAiQ)
 - Skip Community Start Timer
 - Skip Online Spectate
@@ -195,4 +225,5 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Disable First Person View
 - Fast Game/Anti-Matrix
 - CPU Brawl
+- Disable Home Attract Mode
 - Live Time Trial Ghost Replay
