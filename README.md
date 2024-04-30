@@ -1,5 +1,5 @@
 ## OP🔥 Mario Kart 7 Online Plugin
-![MARIO KART 7_28 03 24_03 10 18 478](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/6698fd69-7891-4799-96d6-ed467649b2ff)
+![MARIO KART 7_30 04 24_19 48 44 002](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/c9be0b7c-e03a-4e67-bcb1-d88d32afd9bf)
 
 # About
 Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
@@ -101,9 +101,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 - [Item Wheel](https://youtu.be/WoSv0uVp994)
 - [Item Draw](https://youtu.be/c59r7s4LbZM)
-- Fast Auto Fire
-- Moderate Auto Fire
-- Slow Auto Fire
+- Auto Fire
 - Disable Spawned Shells
 - Disable Spawned Items
 - Disable Item Collision
@@ -129,47 +127,58 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Follow Race Position](https://youtu.be/rp8nKbXajGs)
 - Random Stalking
 - Draft Speed
+- Set Custom Speed
+- Set Custom CPU Speed
 - Moonjump
 - Battle Points Speedometer
-- 200cc
-- 500cc
+- Speedometer
 - Instant Acceleration
 - Instant Backwards Acceleration
 - Instant Stop
+- Third Person Gyro Controls
 - Fast Reverse Speeds
 - Inside Drifting Kart
 - Touch Screen Teleporter
+- Drift Anywhere
 - Drive Anywhere
 - Saved Position Teleporter
 - Enter The Void
 
 📁**Kart Codes**
 - [Invincibility Frames](https://youtu.be/CzPBD85bstI)
-- Aimbot
 - Always Invincible
 - Always Star Power
 - Always Black Kart
 - Always Shocked
 - Always Crushed
 - Always Propeller
+- Always Draft
 - AI Driver
 - Auto Hopping
+- Aimbot
 - Bouncy House
+- Custom Kart Size
 - [Low Gravity](https://youtu.be/IKQJGDzdRek)
 - Trick Anywhere
 - Instant Respawn
 - Instant MiniTurbo
 - Huge Bunnyhop
-- Size Changer
 
-📁**Course Codes**
+📁**Match Codes**
 - Instant Win
 - Disable Respawn Boundaries
 - Disable Wall Collision
 - Drive During Countdown
+- Set Total Laps Amount
+- Set Battle Score Amount
+- Set Race Coin Amount
+- Set Grand Prix Points
 - No Lakitu
 - Max Timer
 - Zero Timer
+- Infinite Balloons
+- Random Balloons
+- Change Balloon Color
 - Wuhu Island Loop Full Course Laps
 - Water Everywhere
 - Disable Water Effect
@@ -203,8 +212,8 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Mii Dumper
 
 📁**Custom Game Modes**
-- Drivable 200cc
-- Drivable 500cc
+- Drivable 400cc
+- Drivable 900cc
 
 📁**Profile Codes**
 - VR Extender
@@ -221,9 +230,10 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Set Globe Coordinates](https://youtu.be/ClVVA0lVUlY)
 
 📁**Miscellaneous**
-- Speedometer
+- Look Backwards
+- Change Field of View
 - Disable First Person View
+- Disable Home Attract Mode
 - Fast Game/Anti-Matrix
 - CPU Brawl
-- Disable Home Attract Mode
 - Live Time Trial Ghost Replay
