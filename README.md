@@ -127,8 +127,8 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Follow Race Position](https://youtu.be/rp8nKbXajGs)
 - Random Stalking
 - Draft Speed
-- Set Custom Speed
-- Set Custom CPU Speed
+- [Set Custom Speed](https://youtu.be/4_jSwMnV9b4)
+- [Set Custom CPU Speed](https://youtu.be/aYSMs1HJnDs)
 - Moonjump
 - Battle Points Speedometer
 - Speedometer
@@ -157,7 +157,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Auto Hopping
 - Aimbot
 - Bouncy House
-- Custom Kart Size
+- [Custom Kart Size](https://youtu.be/ChCq7UhoEHE)
 - [Low Gravity](https://youtu.be/IKQJGDzdRek)
 - Trick Anywhere
 - Instant Respawn
@@ -178,7 +178,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Zero Timer
 - Infinite Balloons
 - Random Balloons
-- Change Balloon Color
+- [Change Balloon Color](https://youtu.be/nyh1nuN6a9k)
 - Wuhu Island Loop Full Course Laps
 - Water Everywhere
 - Disable Water Effect
