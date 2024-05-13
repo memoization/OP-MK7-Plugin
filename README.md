@@ -116,8 +116,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Stopped Blue Shell
 - Fast Green Shell
 - Stopped Green Shell
-- Control Bullet Bill
+- Equip Bullet Bill
 - Bullet Bill Speed Modifier
+- Allow Items With Bullet Bill
 - Blue Shell Ride
 - Disable Star Music
 
@@ -168,12 +169,16 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Instant Win
 - Disable Respawn Boundaries
 - Disable Wall Collision
+- Force Race Course
+- Force Battle Stage
 - Drive During Countdown
+- Set Kart Count
 - Set Total Laps Amount
 - Set Battle Score Amount
 - Set Race Coin Amount
 - Set Grand Prix Points
 - No Lakitu
+- Custom Timer
 - Max Timer
 - Zero Timer
 - Infinite Balloons
@@ -184,25 +189,24 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Disable Water Effect
 
 📁**Online Codes**
+- Anti-VR Crash
+- Set Matchmaking Level
+- No Kart Lerping
+- Hidden Kart
+- Block Item Events
+- Random PID
+- [Name Changer](https://youtu.be/XHvhYwrOAiQ)
+- No Disconnect
 - Always Enter Online Race
 - Always Enter Online Battle
 - [Community Point Farming](https://youtu.be/6lQX0ZSzjiM)
-- Anti-VR Crash
 - Prevent Results Screen Softlock
-- Truly Random Matchmaking
-- Low Matchmaking Level
-- Medium Matchmaking Level
-- High Matchmaking Level
-- Max Matchmaking Level
-- Random PID
 - [Freeze Course Selection Timer](https://youtu.be/z78y9j-_49M)
 - Extended Course Selection Timer
 - [Force Online Disconnect](https://youtu.be/v1s1fDre-8g)
-- [Name Changer](https://youtu.be/XHvhYwrOAiQ)
 - Skip Community Start Timer
 - Skip Online Spectate
 - Skip Please Wait Prompt
-- No Disconnect
 - Freeze Online Matchmaking
 - Spoof Online
 - Crash Online Match
@@ -212,6 +216,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Mii Dumper
 
 📁**Custom Game Modes**
+- All Cup Tour
+- Single Race Grand Prix
+- Daytona 500
 - Drivable 400cc
 - Drivable 900cc
 
