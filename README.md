@@ -169,10 +169,10 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Instant Win
 - Disable Respawn Boundaries
 - Disable Wall Collision
-- Force Race Course
-- Force Battle Stage
+- [Force Race Course](https://youtu.be/QfkqUXac1OE)
+- [Force Battle Stage](https://youtu.be/5lBvINd6olg)
 - Drive During Countdown
-- Set Kart Count
+- [Set Kart Count](https://youtu.be/65YvtBEIor8)
 - Set Total Laps Amount
 - Set Battle Score Amount
 - Set Race Coin Amount
@@ -217,7 +217,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 📁**Custom Game Modes**
 - All Cup Tour
-- Single Race Grand Prix
+- [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
 - Daytona 500
 - Drivable 400cc
 - Drivable 900cc
