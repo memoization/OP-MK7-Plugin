@@ -190,16 +190,22 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 📁**Online Codes**
 - Anti-VR Crash
-- Set Matchmaking Level
+- Anti-Map Crash
 - No Kart Lerping
 - Hidden Kart
 - Block Item Events
 - Random PID
 - [Name Changer](https://youtu.be/XHvhYwrOAiQ)
 - No Disconnect
+- Set Matchmaking Level
+- Set Voting Map
+- Change Online Character
+- Change Online Kart
 - Always Enter Online Race
 - Always Enter Online Battle
 - [Community Point Farming](https://youtu.be/6lQX0ZSzjiM)
+- Force Race Mode Online
+- Force Battle Mode Online
 - Prevent Results Screen Softlock
 - [Freeze Course Selection Timer](https://youtu.be/z78y9j-_49M)
 - Extended Course Selection Timer
