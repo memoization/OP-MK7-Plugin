@@ -162,7 +162,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Low Gravity](https://youtu.be/IKQJGDzdRek)
 - Trick Anywhere
 - Instant Respawn
-- Manual Mini-Turbo
+- [Manual Mini-Turbo](https://youtu.be/-ruDWA4CwKA)
 - Instant Mini-Turbo
 - Huge Bunnyhop
 
