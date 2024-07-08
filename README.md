@@ -167,6 +167,58 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Huge Bunnyhop
 
 📁**Match Codes**
+
+<details>
+
+<summary>📁CPU Appearance</summary>
+
+- Truly Random CPU Appearance
+- ————————
+- Force CPU1 Character
+- Force CPU1 Kart
+- Force CPU1 Wheel
+- Force CPU1 Glider
+- Force CPU1 Size
+- ————————
+- Force CPU2 Character
+- Force CPU2 Kart
+- Force CPU2 Wheel
+- Force CPU2 Glider
+- Force CPU2 Size
+- ————————
+- Force CPU3 Character
+- Force CPU3 Kart
+- Force CPU3 Wheel
+- Force CPU3 Glider
+- Force CPU3 Size
+- ————————
+- Force CPU4 Character
+- Force CPU4 Kart
+- Force CPU4 Wheel
+- Force CPU4 Glider
+- Force CPU4 Size
+- ————————
+- Force CPU5 Character
+- Force CPU5 Kart
+- Force CPU5 Wheel
+- Force CPU5 Glider
+- Force CPU5 Size
+- ————————
+- Force CPU6 Character
+- Force CPU6 Kart
+- Force CPU6 Wheel
+- Force CPU6 Glider
+- Force CPU6 Size
+- ————————
+- Force CPU7 Character
+- Force CPU7 Kart
+- Force CPU7 Wheel
+- Force CPU7 Glider
+- Force CPU7 Size
+
+
+</details>
+
 - Instant Win
 - Disable Respawn Boundaries
 - Disable Wall Collision
@@ -225,6 +277,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 📁**Custom Game Modes**
 - All Cup Tour
 - [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
+- Random Grand Prix Modes
 - Daytona 500
 - Drivable 400cc
 - Drivable 900cc
