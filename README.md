@@ -174,11 +174,11 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 - Truly Random CPU Appearance
 - ————————
-- Force CPU1 Character
+- [Force CPU1 Character](https://youtu.be/8-dhlbHnsp8)
 - Force CPU1 Kart
 - Force CPU1 Wheel
 - Force CPU1 Glider
-- Force CPU1 Size
+- [Force CPU1 Size](https://youtu.be/EZUHzOH-pYg)
 - ————————
 - Force CPU2 Character
 - Force CPU2 Kart
@@ -275,7 +275,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Mii Dumper
 
 📁**Custom Game Modes**
-- All Cup Tour
+- [All Cup Tour](https://youtu.be/aIuJTKt3Vls)
 - [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
 - Random Grand Prix Modes
 - Daytona 500
