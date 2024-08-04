@@ -54,19 +54,15 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 <summary>📁Item Limits</summary>
 
-- Increase Banana Limit
-- Increase Bomb-omb Limit
-- Increase Star Limit
-- Increase Mushroom Limit
-- Increase Fireball Limit
-- Increase Blooper Limit
-- Decrease Banana Limit
-- Decrease Green Shell Limit
-- Decrease Bomb-omb Limit
-- Decrease Star Limit
-- Decrease Mushroom Limit
-- Decrease Fireball Limit
-- Decrease Blooper Limit
+- Set Banana Limit
+- Set Green Shell Limit
+- Set Red Shell Limit
+- Set Bomb-omb Limit
+- Set Star Limit
+- Set Blue Shell Limit
+- Set Mushroom Limit
+- Set Fireball Limit
+- Set Blooper Limit
 
 </details>
 
@@ -92,9 +88,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Force Super Leaf
 - Force Lucky 7
 - Force Triple Bananas
-- Force Triple Mushrooms
 - Force Triple Green Shells
 - Force Triple Red Shells
+- Force Triple Mushrooms
 - Force No Item
 
 </details>
@@ -154,7 +150,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Always Crushed
 - Always Propeller
 - Always Draft
-- AI Driver
+- CPU Driver
 - Auto Hopping
 - Aimbot
 - Bouncy House
@@ -179,42 +175,49 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Force CPU1 Wheel
 - Force CPU1 Glider
 - [Force CPU1 Size](https://youtu.be/EZUHzOH-pYg)
+- Force CPU1 Balloon Color
 - ————————
 - Force CPU2 Character
 - Force CPU2 Kart
 - Force CPU2 Wheel
 - Force CPU2 Glider
 - Force CPU2 Size
+- Force CPU2 Balloon Color
 - ————————
 - Force CPU3 Character
 - Force CPU3 Kart
 - Force CPU3 Wheel
 - Force CPU3 Glider
 - Force CPU3 Size
+- Force CPU3 Balloon Color
 - ————————
 - Force CPU4 Character
 - Force CPU4 Kart
 - Force CPU4 Wheel
 - Force CPU4 Glider
 - Force CPU4 Size
+- Force CPU4 Balloon Color
 - ————————
 - Force CPU5 Character
 - Force CPU5 Kart
 - Force CPU5 Wheel
 - Force CPU5 Glider
 - Force CPU5 Size
+- Force CPU5 Balloon Color
 - ————————
 - Force CPU6 Character
 - Force CPU6 Kart
 - Force CPU6 Wheel
 - Force CPU6 Glider
 - Force CPU6 Size
+- Force CPU6 Balloon Color
 - ————————
 - Force CPU7 Character
 - Force CPU7 Kart
 - Force CPU7 Wheel
 - Force CPU7 Glider
 - Force CPU7 Size
+- Force CPU7 Balloon Color
 
 
 </details>
@@ -230,6 +233,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Set Battle Score Amount
 - Set Race Coin Amount
 - Set Grand Prix Points
+- No CPU Rubber Banding
 - No Lakitu
 - Custom Timer
 - Max Timer
@@ -246,7 +250,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Anti-Map Crash
 - No Kart Lerping
 - Hidden Kart
+- Accident Spam
 - Block Item Events
+- Disable Item Spam Cooldown
 - Random PID
 - [Name Changer](https://youtu.be/XHvhYwrOAiQ)
 - No Disconnect
