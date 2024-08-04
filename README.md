@@ -2,7 +2,7 @@
 ![MARIO KART 7_30 04 24_19 48 44 002](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/c9be0b7c-e03a-4e67-bcb1-d88d32afd9bf)
 
 # About
-Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/MK7-Plugin-Deluxe-3.0.2) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
+Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
 
 # Installation
 
