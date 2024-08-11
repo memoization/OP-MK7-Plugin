@@ -233,7 +233,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Set Battle Score Amount
 - Set Race Coin Amount
 - Set Grand Prix Points
-- No CPU Rubber Banding
+- [No CPU Rubber Banding](https://youtu.be/FjZLwuDMl80)
 - No Lakitu
 - Custom Timer
 - Max Timer
@@ -250,7 +250,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Anti-Map Crash
 - No Kart Lerping
 - Hidden Kart
-- Accident Spam
+- [Accident Spam](https://youtu.be/dyFGHZfx7hM)
 - Block Item Events
 - Disable Item Spam Cooldown
 - Random PID
