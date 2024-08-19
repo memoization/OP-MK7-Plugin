@@ -1,5 +1,5 @@
-## OP🔥 Mario Kart 7 Online Plugin
-![MARIO KART 7_30 04 24_19 48 44 002](https://github.com/memoization/OP-MK7-Online-Plugin/assets/50002278/c9be0b7c-e03a-4e67-bcb1-d88d32afd9bf)
+## OP🔥 Mario Kart 7 Plugin
+![MARIO KART 7_18 08 24_20 08 16 1](https://github.com/user-attachments/assets/90be0eac-cb3d-4774-ae28-7c21685ff53d)
 
 # About
 Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
@@ -68,30 +68,45 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 <details>
 
+<summary>📁Item Size</summary>
+
+- Set Banana Size
+- Set Green/Red Shell Size
+- Set Bomb-omb Size
+- Set Star Size
+- Set Blue Shell Size
+- Set Mushroom Size
+- Set Fireball Size
+- Set Blooper Size
+
+</details>
+
+<details>
+
 <summary>📁Item Boxes</summary>
 
 - [Instant Item Boxes](https://youtu.be/HVNVs-BoAnA)
 - [No Item Roll](https://youtu.be/zH_pcJ-YsDI)
 - Truly Random Items
-- Force Banana
-- Force Green Shell
-- Force Red Shell
-- Force Mushroom
-- Force Star
-- Force Bomb-omb
-- Force Blooper
-- Force Blue Shell
-- Force Lightning
-- Force Bullet Bill
-- Force Golden Mushroom
-- Force Fire Flower
-- Force Super Leaf
-- Force Lucky 7
-- Force Triple Bananas
-- Force Triple Green Shells
-- Force Triple Red Shells
-- Force Triple Mushrooms
-- Force No Item
+- Set Banana
+- Set Green Shell
+- Set Red Shell
+- Set Mushroom
+- Set Star
+- Set Bomb-omb
+- Set Blooper
+- Set Blue Shell
+- Set Lightning
+- Set Bullet Bill
+- Set Golden Mushroom
+- Set Fire Flower
+- Set Super Leaf
+- Set Lucky 7
+- Set Triple Bananas
+- Set Triple Green Shells
+- Set Triple Red Shells
+- Set Triple Mushrooms
+- Set No Item
 
 </details>
 
@@ -107,11 +122,12 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Always Have Certain Item
 - Cycle Completely Random Item
 - Star Spawner
-- Fast Blue Shell
 - Lightning Strikes Yourself
-- Stopped Blue Shell
-- Fast Green Shell
-- Stopped Green Shell
+- Set Blue Shell Speed
+- Set Green/Red Shell Speed
+- Set Green/Red Shell Gravity
+- Set Green/Red Shell Spinning Rate
+- Set Green Shell Max Bounce
 - Equip Bullet Bill
 - Bullet Bill Speed Modifier
 - Allow Items With Bullet Bill
@@ -126,6 +142,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Draft Speed
 - [Set Custom Speed](https://youtu.be/4_jSwMnV9b4)
 - [Set Custom CPU Speed](https://youtu.be/aYSMs1HJnDs)
+- Set Zero Turn Speed
 - Moonjump
 - Battle Points Speedometer
 - Speedometer
