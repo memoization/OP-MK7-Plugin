@@ -1,4 +1,4 @@
-## OP🔥 Mario Kart 7 Plugin
+## OP🔥 Mario Kart 7 Plugin [![Github All Releases](https://img.shields.io/github/downloads/memoization/OP-MK7-Plugin/total.svg)]()
 ![MARIO KART 7_18 08 24_20 08 16 1](https://github.com/user-attachments/assets/90be0eac-cb3d-4774-ae28-7c21685ff53d)
 
 # About
@@ -6,7 +6,7 @@ Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugi
 
 # Installation
 
-1. Download the plugin file.
+1. Download the latest [plugin](https://github.com/memoization/OP-MK7-Plugin/releases/latest) file.
 2. Place the _plugin.3gx_ file into the folder for your region:<br/>
 
 USA - SD:/luma/plugins/0004000000030800<br/>
