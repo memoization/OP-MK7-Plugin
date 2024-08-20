@@ -1,4 +1,4 @@
-## OP🔥 Mario Kart 7 Plugin [![Github All Releases](https://img.shields.io/github/downloads/memoization/OP-MK7-Plugin/total.svg)]()
+## OP🔥 Mario Kart 7 Plugin [![Github All Releases](https://img.shields.io/github/downloads/memoization/OP-MK7-Plugin/total.svg)](https://github.com/memoization/OP-MK7-Plugin/releases/latest)
 ![MARIO KART 7_18 08 24_20 08 16 1](https://github.com/user-attachments/assets/90be0eac-cb3d-4774-ae28-7c21685ff53d)
 
 # About
