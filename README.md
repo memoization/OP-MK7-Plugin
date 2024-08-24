@@ -116,6 +116,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Disable Spawned Shells
 - Disable Spawned Items
 - Disable Item Collision
+- Disable Item Despawn Timer
 - [Item Spawn Kill](https://youtu.be/rlOHrD4U4kw)
 - [Raining Items](https://youtu.be/AvF0rq89AXc)
 - Never Lose Items
@@ -246,6 +247,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Force Battle Stage](https://youtu.be/5lBvINd6olg)
 - Drive During Countdown
 - [Set Kart Count](https://youtu.be/65YvtBEIor8)
+- Set Gravity On Karts
 - Set Total Laps Amount
 - Set Battle Score Amount
 - Set Race Coin Amount
@@ -270,7 +272,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Accident Spam](https://youtu.be/dyFGHZfx7hM)
 - Block Item Events
 - Disable Item Spam Cooldown
-- Random PID
 - [Name Changer](https://youtu.be/XHvhYwrOAiQ)
 - No Disconnect
 - Set Matchmaking Level
@@ -311,11 +312,13 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Random VR
 - [Random Country](https://youtu.be/JIMalEDeYHQ)
 - [Random Globe Coordinates](https://youtu.be/BDR8RdMIeoU)
+- Random PID
 - Set Custom VR
 - Set Wins Total
 - Set Losses Total
 - Set Coins Total
 - Set StreetPass Tags
+- Set PID
 - [Set Country Label](https://youtu.be/0oTamdOUpnw)
 - [Set Globe Coordinates](https://youtu.be/ClVVA0lVUlY)
 
