@@ -110,6 +110,23 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 </details>
 
+<details>
+
+<summary>📁Item Behavior</summary>
+
+- Set Blue Shell Speed
+- Set Blue Shell Explosion Size
+- Set Bomb-omb Explode Timer
+- Set Bomb-omb Explosion Size
+- Set Bomb-omb Bounce Intensity
+- Set Bomb-omb Slippage
+- Set Green/Red Shell Speed
+- Set Green/Red Shell Gravity
+- Set Green/Red Shell Spinning Rate
+- Set Green Shell Max Bounce
+
+</details>
+
 - [Item Wheel](https://youtu.be/WoSv0uVp994)
 - [Item Draw](https://youtu.be/c59r7s4LbZM)
 - Auto Fire
@@ -124,11 +141,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Cycle Completely Random Item
 - Star Spawner
 - Lightning Strikes Yourself
-- Set Blue Shell Speed
-- Set Green/Red Shell Speed
-- Set Green/Red Shell Gravity
-- Set Green/Red Shell Spinning Rate
-- Set Green Shell Max Bounce
 - Equip Bullet Bill
 - Bullet Bill Speed Modifier
 - Allow Items With Bullet Bill
@@ -144,6 +156,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Set Custom Speed](https://youtu.be/4_jSwMnV9b4)
 - [Set Custom CPU Speed](https://youtu.be/aYSMs1HJnDs)
 - Set Zero Turn Speed
+- Disable Off-Road Speed
 - Moonjump
 - Battle Points Speedometer
 - Speedometer
@@ -265,8 +278,16 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Disable Water Effect
 
 📁**Online Codes**
+<details>
+
+<summary>📁Protection Codes</summary>
+
 - Anti-VR Crash
 - Anti-Map Crash
+- Anti-Roster Crash
+
+</details>
+
 - No Kart Lerping
 - Hidden Kart
 - [Accident Spam](https://youtu.be/dyFGHZfx7hM)
@@ -292,9 +313,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Skip Please Wait Prompt
 - Freeze Online Matchmaking
 - Spoof Online
-- Crash Online Match
+- Crash Active Match
+- Crash Loading Match
 - Matchmaking VR Crash
-- Always VR Crash
 - High Data Rate
 - Mii Dumper
 
