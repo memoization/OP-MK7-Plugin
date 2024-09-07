@@ -264,6 +264,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Set Total Laps Amount
 - Set Battle Score Amount
 - Set Race Coin Amount
+- Set Coin Pickup Limit
 - Set Grand Prix Points
 - [No CPU Rubber Banding](https://youtu.be/FjZLwuDMl80)
 - No Lakitu
@@ -321,6 +322,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 📁**Custom Game Modes**
 - [All Cup Tour](https://youtu.be/aIuJTKt3Vls)
+- Sudden Death Balloon Battle
 - [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
 - Random Grand Prix Modes
 - Daytona 500
