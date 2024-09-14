@@ -262,6 +262,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Set Kart Count](https://youtu.be/65YvtBEIor8)
 - Set Gravity On Karts
 - Set Total Laps Amount
+- Set Battle Total Rounds
 - Set Battle Score Amount
 - Set Race Coin Amount
 - Set Coin Pickup Limit
@@ -322,6 +323,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 📁**Custom Game Modes**
 - [All Cup Tour](https://youtu.be/aIuJTKt3Vls)
+- Classic Balloon Battle
 - Sudden Death Balloon Battle
 - [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
 - Random Grand Prix Modes
