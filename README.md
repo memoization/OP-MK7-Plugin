@@ -262,7 +262,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Set Kart Count](https://youtu.be/65YvtBEIor8)
 - Set Gravity On Karts
 - Set Total Laps Amount
-- Set Battle Total Rounds
+- Set Total Battle Rounds
 - Set Battle Score Amount
 - Set Race Coin Amount
 - Set Coin Pickup Limit
