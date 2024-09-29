@@ -4,6 +4,9 @@
 # About
 Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
 
+> [!WARNING]
+> Use of cheats with this plugin can result in a permanent device ban on Pretendo or other "reboot" online platforms. Use with caution in public sessions. Enable a private room session *([Custom Private Room](#safeCode))* for safe use while online.
+
 # Installation
 
 1. Download the latest [plugin](https://github.com/memoization/OP-MK7-Plugin/releases/latest) file.
@@ -114,16 +117,24 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 <summary>📁Item Behavior</summary>
 
-- Set Blue Shell Speed
-- Set Blue Shell Explosion Size
-- Set Bomb-omb Explode Timer
-- Set Bomb-omb Explosion Size
-- Set Bomb-omb Bounce Intensity
-- Set Bomb-omb Slippage
 - Set Green/Red Shell Speed
 - Set Green/Red Shell Gravity
 - Set Green/Red Shell Spinning Rate
 - Set Green Shell Max Bounce
+- Set Banana Throw Power
+- Set Blue Shell Speed
+- Set Blue Shell Explosion Size
+- Set Lucky 7 Items
+- Set Lucky 7 Item Distance
+- Set Lucky 7 Forward Offset
+- Set Lucky 7 Orbit Speed
+- Set Item Orbit Height
+- Set Orbiting Item Spin Speed
+- Set Bomb-omb Explode Timer
+- Set Bomb-omb Explosion Size
+- Set Bomb-omb Throw Power
+- Set Bomb-omb Bounce Intensity
+- Set Bomb-omb Slippage
 
 </details>
 
@@ -152,12 +163,13 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Follow The Leader
 - [Follow Race Position](https://youtu.be/rp8nKbXajGs)
 - Random Stalking
+- Free Fly
+- Moonjump
 - Draft Speed
 - [Set Custom Speed](https://youtu.be/4_jSwMnV9b4)
 - [Set Custom CPU Speed](https://youtu.be/aYSMs1HJnDs)
 - Set Zero Turn Speed
 - Disable Off-Road Speed
-- Moonjump
 - Battle Points Speedometer
 - Speedometer
 - Instant Acceleration
@@ -290,6 +302,8 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 </details>
 
+<a name="safeCode"></a>
+- Custom Private Room
 - No Kart Lerping
 - Hidden Kart
 - [Accident Spam](https://youtu.be/dyFGHZfx7hM)
