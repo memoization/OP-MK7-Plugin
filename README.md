@@ -5,7 +5,7 @@
 Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
 
 > [!WARNING]
-> Use of cheats with this plugin can result in a permanent device ban on Pretendo or other "reboot" online platforms. Use with caution in public sessions. Enable a private room session *([Custom Private Room](#safeCode))* for safe use while online.
+> Use of cheats with this plugin can result in a permanent device ban on Pretendo or other "reboot" online platforms. Use with caution in public sessions. Enable a private room session *([Custom Private Room](#onlineCodes))* for safe use while online.
 
 # Installation
 
@@ -291,6 +291,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Water Everywhere
 - Disable Water Effect
 
+<a name="onlineCodes"></a>
 📁**Online Codes**
 <details>
 
@@ -302,7 +303,6 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 </details>
 
-<a name="safeCode"></a>
 - Custom Private Room
 - No Kart Lerping
 - Hidden Kart
