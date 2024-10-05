@@ -279,6 +279,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Set Race Coin Amount
 - Set Coin Pickup Limit
 - Set Grand Prix Points
+- Set Match Music
 - [No CPU Rubber Banding](https://youtu.be/FjZLwuDMl80)
 - No Lakitu
 - Custom Timer
