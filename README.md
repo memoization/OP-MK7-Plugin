@@ -117,24 +117,29 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 <summary>📁Item Behavior</summary>
 
+- Set Thrown Item Gravity
+- Set Orbiting Item Height
+- Set Orbiting Item Spin Speed
 - Set Green/Red Shell Speed
 - Set Green/Red Shell Gravity
 - Set Green/Red Shell Spinning Rate
 - Set Green Shell Max Bounce
 - Set Banana Throw Power
+- Slippery Bananas
 - Set Blue Shell Speed
 - Set Blue Shell Explosion Size
 - Set Lucky 7 Items
 - Set Lucky 7 Item Distance
 - Set Lucky 7 Forward Offset
 - Set Lucky 7 Orbit Speed
-- Set Item Orbit Height
-- Set Orbiting Item Spin Speed
 - Set Bomb-omb Explode Timer
 - Set Bomb-omb Explosion Size
 - Set Bomb-omb Throw Power
 - Set Bomb-omb Bounce Intensity
 - Set Bomb-omb Slippage
+- Set Triple Shell Distance
+- Set Triple Shell Forward Offset
+- Set Triple Shell Orbit Speed
 
 </details>
 
@@ -340,6 +345,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [All Cup Tour](https://youtu.be/aIuJTKt3Vls)
 - Classic Balloon Battle
 - Sudden Death Balloon Battle
+- Coin Runner Frenzy
 - [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
 - Random Grand Prix Modes
 - Daytona 500
