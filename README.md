@@ -1,5 +1,6 @@
 ## OP🔥 Mario Kart 7 Plugin [![Github All Releases](https://img.shields.io/github/downloads/memoization/OP-MK7-Plugin/total.svg)](https://github.com/memoization/OP-MK7-Plugin/releases/latest)
-![MARIO KART 7_18 08 24_20 08 16 1](https://github.com/user-attachments/assets/90be0eac-cb3d-4774-ae28-7c21685ff53d)
+![OPMK7-Logo (1)](https://github.com/user-attachments/assets/f281631c-dc11-4ddf-8f7e-5cf06cdeb43a)
+
 
 # About
 Based off of [DarkFlare69's](https://github.com/DarkFlare69/MK7-Online-NTR-Plugin-v3) plugin, this includes a combination of some codes from [SFC-hacker's](https://github.com/SFC-hacker/Mario-Kart-7-Plugin-Deluxe) plugin and [MK7-Revolution](https://github.com/Anto726/MK7-Revolution). In addition, this includes exclusive codes for online and singleplayer usage.
@@ -128,7 +129,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - Slippery Bananas
 - Set Blue Shell Speed
 - Set Blue Shell Explosion Size
-- Set Lucky 7 Items
+- [Set Lucky 7 Items](https://youtu.be/FJw4-EnXpkY)
 - Set Lucky 7 Item Distance
 - Set Lucky 7 Forward Offset
 - Set Lucky 7 Orbit Speed
@@ -174,7 +175,7 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 - [Set Custom Speed](https://youtu.be/4_jSwMnV9b4)
 - [Set Custom CPU Speed](https://youtu.be/aYSMs1HJnDs)
 - Set Zero Turn Speed
-- Disable Off-Road Speed
+- [Disable Off-Road Speed](https://youtu.be/BLXeFMdnEo4)
 - Battle Points Speedometer
 - Speedometer
 - Instant Acceleration
@@ -343,9 +344,9 @@ JPN - SD:/luma/plugins/0004000000030600<br/>
 
 📁**Custom Game Modes**
 - [All Cup Tour](https://youtu.be/aIuJTKt3Vls)
-- Classic Balloon Battle
-- Sudden Death Balloon Battle
-- Coin Runner Frenzy
+- [Classic Balloon Battle](https://youtu.be/DKZF1ADOVFE)
+- [Sudden Death Balloon Battle](https://youtu.be/aXfumqE6NrE)
+- [Coin Runner Frenzy](https://youtu.be/JPxbxefTeCQ)
 - [Single Race Grand Prix](https://youtu.be/pTGt36n3sso)
 - Random Grand Prix Modes
 - Daytona 500
